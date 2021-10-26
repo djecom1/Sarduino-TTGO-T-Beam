@@ -11,8 +11,8 @@ La version V1.2 est une version compilé avec ajout d'un test interne de décoda
 Ce décodeur nécessite un récepteur externe avec sortie "discri" ainsi qu'un montage permettant la mise en forme des signaux reçu (comparable à ma version du Sarduino).
 Un encodeur rotatif permet une navigation dans les pages. 
 Un "grand" écran Oled de 1.3 pouces permet une lecture aisé des infos décodées.
-Le GPS intégré au T-Beam permet, une fois la balise décodée, d'avoir un cap/distance entre la T-Beam et la balise (si celle-ci comporte un GPS).
-Pour le reste, je vous laisse découvrir les notes de F1GHO ansi que les images qui se suffisent à elles même.
+Le GPS intégré au T-Beam permet, une fois la balise décodée, d'avoir un cap/distance entre le T-Beam et la balise (si celle-ci comporte un GPS).
+Pour le reste, je vous laisse découvrir les notes de F1GHO ainsi que les images qui se suffisent à elles même.
 
 
 # Projet participatif, nous avons besoin de vos compétances !!!
