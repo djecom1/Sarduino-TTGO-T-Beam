@@ -1,4 +1,4 @@
-# DECODAGE DES TRAMES BALISES 406MHz  avec module TTGO derriere un récepteur FM et mise en forme.
+# DECODAGE DES TRAMES BALISES 406MHz  avec module TTGO derrière un récepteur FM et mise en forme.
 Attention à bien régler le comparateur pour avoir un joli signal carré et voir pas de forme bizarre (notamment au debut de trame). Voir images jointes.
 
 Le programme que j'ai fait s'inspire d'une premiere ébauche réalisée par F4GMU.
